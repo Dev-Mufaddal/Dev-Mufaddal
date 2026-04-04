@@ -13,8 +13,9 @@
 * 🔗 Experience building **REST APIs and CRUD applications**
 * 🗄️ Knowledge of **MySQL & SQL Server database integration**
 * 🐍 Experience with **Python for automation, scraping & database operations**
-* 🌱 Currently learning **Spring Boot**
+* 🌱 Currently learning **Python**
 * 🎯 Goal: Become a **Full Stack Developer**
+* 📧 How to reach me: **mufaddalabbaskanchwala99@gmail.com**
 
 ---
 
