@@ -2,7 +2,7 @@
 
 💻 Java | .NET | Python Developer
 
-🚀 Passionate about Backend Development & Web Applications
+🚀 Aspiring & passionate about Backend Development & Web Applications
 
 ---
 
