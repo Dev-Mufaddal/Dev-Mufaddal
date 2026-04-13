@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋 I'm Mufaddal Kanchwala</h1>
+<div align="center">
 
-<p align="center">
-  <b>💻 Java | .NET | Python Developer</b><br>
-  🚀 Aspiring & passionate about Backend Development & Web Applications
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mufaddal+Kanchwala;Full+Stack+Developer+in+the+Making;Java+%7C+.NET+%7C+Python+Developer;Building+Real-World+Web+Apps)](https://github.com/Dev-Mufaddal)
+
+<p>
+  <b>🚀 Passionate about Backend Development & Web Applications</b><br>
+  <i>📚 Currently grinding exams — but the code never stops.</i>
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:mufaddalabbaskanchwala99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Dev-Mufaddal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Mufaddal&style=for-the-badge&color=6C63FF" />
 </p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🛒 Built **E-Commerce Web Applications** using **Java**, **.NET** & **Python (Flask)**
+I'm a backend-focused developer with hands-on experience building full-stack e-commerce web applications across **three different tech stacks** — Java, .NET, and Python (Flask). I care deeply about clean architecture, secure code, and real-world functionality.
+
+Currently balancing **academic exams** with active development — because great developers never stop building.
+
+- 🛒 Built **3 full-stack E-Commerce apps** using **Java**, **.NET** & **Python (Flask)**
 - 🧠 Strong understanding of **MVC & N-Tier architecture**
-- 🔗 Experience building **REST APIs and CRUD applications**
-- 🗄️ Knowledge of **MySQL & SQL Server database integration**
-- 🐍 Experience with **Python for automation, scraping, web apps & database operations**
+- 🔗 Experience building **REST APIs, CRUD applications & payment integrations**
+- 🗄️ Hands-on with **MySQL & SQL Server database integration**
 - 💳 Integrated **Razorpay payment gateway** across multiple projects
-- 🌱 Currently learning **Python & Flask**
-- 🎯 Goal: Become a **Full Stack Developer**
-- 📧 Reach me at: **mufaddalabbaskanchwala99@gmail.com**
+- 📚 Currently **preparing for exams** while sharpening Python & Flask skills
+- 🎯 Goal: Land my first role as a **Full Stack Developer**
+- 📧 **mufaddalabbaskanchwala99@gmail.com**
+
+---
+
+## 🔨 What I'm Currently Up To
+
+| Status | Activity |
+|---|---|
+| 📚 | Preparing for upcoming exams |
+| 🌱 | Deepening Java, C#, Python knowledge |
+| 🔍 | Exploring Spring Boot for future projects |
+| 🎯 | Aiming for my first Full Stack Developer role |
 
 ---
 
@@ -145,4 +164,18 @@
 
 ---
 
-<p align="center">⭐ Always learning new technologies and improving coding skills 🚀</p>
+## 🗺️ Roadmap — What's Next After Exams
+
+- [ ] 🌱 Build a project using **Spring Boot**
+- [ ] 🔐 Implement **JWT authentication** in a REST API
+- [ ] ⚛️ Learn **React.js** to go truly full stack
+- [ ] ☁️ Deploy a project on **AWS or Azure**
+- [ ] 🐳 Containerize an app with **Docker**
+- [ ] 💼 Land my first **Full Stack Developer** role
+
+---
+
+<p align="center">
+  <i>📚 Exams now. 🚀 Full Stack career next.</i><br><br>
+  ⭐ Always learning new technologies and improving coding skills
+</p>
