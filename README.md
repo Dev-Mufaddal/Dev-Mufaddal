@@ -25,7 +25,7 @@
 
 I'm a backend-focused developer with hands-on experience building full-stack e-commerce web applications across **three different tech stacks** — Java, .NET, and Python (Flask). I care deeply about clean architecture, secure code, and real-world functionality.
 
-Currently balancing **academic exams** with active development — because great developers never stop building.
+Balancing **job hunting** with active development—focused on building and growing every day.
 
 - 🛒 Built **3 full-stack E-Commerce apps** using **Java**, **.NET** & **Python (Flask)**
 - 🧠 Strong understanding of **MVC & N-Tier architecture**
@@ -42,9 +42,8 @@ Currently balancing **academic exams** with active development — because great
 
 | Status | Activity |
 |---|---|
-| 📚 | Preparing for upcoming exams |
 | 🌱 | Deepening Java, C#, Python knowledge |
-| 🔍 | Exploring Spring Boot for future projects |
+| 🔍 | Exploring Spring Boot, MERN Stack for future projects |
 | 🎯 | Aiming for my first Full Stack Developer role |
 
 ---
@@ -176,6 +175,6 @@ Currently balancing **academic exams** with active development — because great
 ---
 
 <p align="center">
-  <i>📚 Exams now. 🚀 Full Stack career next.</i><br><br>
+  <i>📚 Learning now. 🚀 Full Stack career next.</i><br><br>
   ⭐ Always learning new technologies and improving coding skills
 </p>
